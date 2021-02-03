@@ -1,0 +1,3 @@
+C:/Users/FUD/CLionProjects/git/OU_GIT_ZAD_236394/cmake-build-debug/CMakeFiles/OU_GIT_ZAD_236394.dir
+C:/Users/FUD/CLionProjects/git/OU_GIT_ZAD_236394/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FUD/CLionProjects/git/OU_GIT_ZAD_236394/cmake-build-debug/CMakeFiles/rebuild_cache.dir
